@@ -1,0 +1,11 @@
+# build artifacts
+*.o
+*.so
+*.bc
+__pycache__/
+*.pyc
+/bench/bench_ext
+/bench/bench_uuid
+
+# scratch
+tmp/

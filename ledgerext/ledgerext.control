@@ -1,0 +1,4 @@
+comment = 'double-entry ledger'
+default_version = '0.1'
+module_pathname = '$libdir/ledgerext'
+relocatable = true
